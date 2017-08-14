@@ -2,11 +2,9 @@
 
 기본적으로 텐서플로우 공식 홈페이지의 [Installing TensorFlow from Sources] (https://www.tensorflow.org/install/install_sources) 의 절차를 따름. 다만 옵션들이 살짝 달라짐.
 
-<pre><code>
-<blockquote>
+<code>
 <p>$ git clone https://github.com/tensorflow/tensorflow</p>
-</blockquote>
-</code></pre>
+</code>
 
 <code>
 <p>$ cd tensorflow</p>
