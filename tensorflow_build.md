@@ -65,6 +65,7 @@ $ sudo pip3 install /tmp/tensorflow_pkg/tensorflow-1.2.1-cp36-cp36m-macosx_10_12
 </code><br />
 (파일 이름은 폴더를 확인하여 교체)
 <br />
+<br />
 
 - Tensorflow GPU Mac build 참고  
 <https://medium.com/@mattias.arro/installing-tensorflow-1-2-from-sources-with-gpu-support-on-macos-4f2c5cab8186>
