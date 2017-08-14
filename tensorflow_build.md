@@ -5,9 +5,11 @@
 <code>
 $ git clone https://github.com/tensorflow/tensorflow
 </code>
+
 <code>
 $ cd tensorflow  
 </code>
+
 <code>
 $ git checkout r1.2 
 </code>
@@ -25,6 +27,7 @@ $ brew install coreutils
 <code>
 $ cd tensorflow  
 </code>
+
 <code>
 $ ./configure
 </code>
