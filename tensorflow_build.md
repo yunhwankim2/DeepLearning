@@ -78,13 +78,17 @@ $ sudo pip3 install /tmp/tensorflow_pkg/tensorflow-1.2.1-cp36-cp36m-macosx_10_12
 
 
 #### Tensorflow GPU Mac build 참고  
-Tensorflow 1.2.1 with NVIDIA CUDA GPU support on macOS Sierra 10.12  
-<https://gist.github.com/jvicenti/d64fc03a57b7a2ceb117634bdb5dabfb>  
-<https://gist.github.com/to-bee/6d19b7fa0d68ee97407591de1586da62>  
+Tensorflow 1.2.1 with NVIDIA CUDA GPU support on macOS Sierra 10.12 (<https://gist.github.com/jvicenti/d64fc03a57b7a2ceb117634bdb5dabfb>  
+<https://gist.github.com/to-bee/6d19b7fa0d68ee97407591de1586da62>)  
+
 <https://gist.github.com/danbarnes333/486fc02f98046048f7d6bfd5908d561a>  
+
 <https://gist.github.com/myh1000/3fbb42928d94a083f6eaed28883ef659>  
+
 <https://medium.com/@mattias.arro/installing-tensorflow-1-2-from-sources-with-gpu-support-on-macos-4f2c5cab8186>  
+
 <https://gist.github.com/Mistobaan/dd32287eeb6859c6668d>  
+
 <https://github.com/tensorflow/tensorflow/issues/11859>
 
 
