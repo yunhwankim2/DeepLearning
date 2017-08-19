@@ -81,8 +81,13 @@ $ sudo pip3 install /tmp/tensorflow_pkg/tensorflow-1.2.1-cp36-cp36m-macosx_10_12
 Tensorflow 1.2.1 with NVIDIA CUDA GPU support on macOS Sierra 10.12 (<https://gist.github.com/jvicenti/d64fc03a57b7a2ceb117634bdb5dabfb>)
  
 The version ('80100') of the host compiler ('Apple clang') is not supported (<https://github.com/torch/torch7/issues/1008>)  
-: Install Xcode Commnad Line Tools ver.8.2
+: Install Xcode Commnad Line Tools ver.8.2  
 
+<p>
+<code>
+$ sudo xcode-select --switch /Library/Developer/CommandLineTools
+</code>
+</p>
 
 (<https://gist.github.com/to-bee/6d19b7fa0d68ee97407591de1586da62>)  
 
