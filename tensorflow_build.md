@@ -89,6 +89,10 @@ $ sudo xcode-select --switch /Library/Developer/CommandLineTools
 </code>
 </p>
 
+NVIDIA CUDA Installation Guide for Mac OS X  
+(<http://docs.nvidia.com/cuda/cuda-installation-guide-mac-os-x/index.html#xcode-version>)  
+: For OSX 10.12, Xcode 8.2 and Apple LLVM 8.0.0 should be used.  
+
 (<https://gist.github.com/to-bee/6d19b7fa0d68ee97407591de1586da62>)  
 
 <https://gist.github.com/danbarnes333/486fc02f98046048f7d6bfd5908d561a>  
