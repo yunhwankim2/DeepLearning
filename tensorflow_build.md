@@ -14,7 +14,7 @@ $ cd tensorflow
 </code>
 <br />
 <code>
-$ git checkout r1.2 
+$ git checkout r1.3 
 </code>
 <br />
 (뒤의 버전을 설치할 버전으로 바꿈)
