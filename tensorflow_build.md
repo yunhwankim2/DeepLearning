@@ -96,6 +96,9 @@ NVIDIA CUDA Installation Guide for Mac OS X
 OSX Sierra + Titan Xp eGPU. Tensorflow 1.2.1. + CUDA 8 + cuDNN 6  
 (<https://gist.github.com/danbarnes333/486fc02f98046048f7d6bfd5908d561a>)  
 
+Tensorflow 1.2.1 버전 맥에서 GPU 포함하여 컴파일 하기  
+(<http://chaoswith.blogspot.kr/2017/07/tensorflow-121-gpu.html>)  
+
 <https://medium.com/@mattias.arro/installing-tensorflow-1-2-from-sources-with-gpu-support-on-macos-4f2c5cab8186>  
 
 <https://gist.github.com/Mistobaan/dd32287eeb6859c6668d>  
