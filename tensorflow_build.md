@@ -93,7 +93,8 @@ NVIDIA CUDA Installation Guide for Mac OS X
 (<http://docs.nvidia.com/cuda/cuda-installation-guide-mac-os-x/index.html#xcode-version>)  
 : For OSX 10.12, Xcode 8.2 and Apple LLVM 8.0.0 should be used.  
 
-<https://gist.github.com/danbarnes333/486fc02f98046048f7d6bfd5908d561a>  
+OSX Sierra + Titan Xp eGPU. Tensorflow 1.2.1. + CUDA 8 + cuDNN 6  
+(<https://gist.github.com/danbarnes333/486fc02f98046048f7d6bfd5908d561a>)  
 
 <https://gist.github.com/myh1000/3fbb42928d94a083f6eaed28883ef659>  
 
