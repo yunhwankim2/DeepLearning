@@ -99,6 +99,7 @@ $ bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
 $ sudo pip3 install /tmp/tensorflow_pkg/tensorflow-1.3.0-cp36-cp36m-macosx_10_12_x86_64.whl #파일 이름은 폴더를 확인하여 교체
 ```
 
+-----------------------------
 
 #### Tensorflow GPU Mac build 참고  
 
